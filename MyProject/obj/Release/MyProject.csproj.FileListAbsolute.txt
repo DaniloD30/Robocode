@@ -1,0 +1,11 @@
+C:\Users\danil\Downloads\MySolution\MyProject\bin\Release\dod.MyRobot_1.0.dll
+C:\Users\danil\Downloads\MySolution\MyProject\bin\Release\dod.MyRobot_1.0.pdb
+C:\Users\danil\Downloads\MySolution\MyProject\bin\Release\robocode.dll
+C:\Users\danil\Downloads\MySolution\MyProject\bin\Release\robocode.xml
+C:\Users\danil\Downloads\MySolution\MyProject\obj\Release\ResolveAssemblyReference.cache
+C:\Users\danil\Downloads\MySolution\MyProject\obj\Release\dod.MyRobot_1.0.dll
+C:\Users\danil\Downloads\MySolution\MyProject\obj\Release\dod.MyRobot_1.0.pdb
+C:\Users\danil\Downloads\MySolution\MyProject\bin\Release\robocode.dotnet.nhost-1.9.3.3.dll
+C:\Users\danil\Downloads\MySolution\MyProject\bin\Release\robocode.control.dll
+C:\Users\danil\Downloads\MySolution\MyProject\bin\Release\jni4net.n-0.8.7.0.dll
+C:\Users\danil\Downloads\MySolution\MyProject\bin\Release\robocode.control.xml
